@@ -1,7 +1,6 @@
 package com.epam.mjc.stage0.utils;
 
 public enum Complexity {
-
     O_LOG_N,
     O_N_2,
     O_FACTORIAL_N,
